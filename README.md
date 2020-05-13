@@ -1,0 +1,2 @@
+# variados
+Códigos rubys variados
